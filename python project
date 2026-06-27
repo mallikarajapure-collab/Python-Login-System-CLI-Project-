@@ -1,0 +1,15 @@
+correct_username = "mallika"
+correct_password = "1234"
+
+for i in range(3):
+    username = input("Enter username: ")
+    password = input("Enter password: ")
+
+    if username == correct_username and password == correct_password:
+        print("Login Successful ")
+        break
+    else:
+        print("Wrong credentials ❌ Try again")
+
+else:
+    print("Account locked ")

@@ -1,3 +1,11 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:172554,50:1D4ED8,100:93C5FD&height=210&section=header&text=PYTHON%20LOGIN%20SYSTEM&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Command-Line%20Authentication&descAlignY=60&descSize=15" width="100%" />
+
+</div>
+
+---
+
 Added Python login system project with username and password authentication using loops and conditional statements.
 🔐 Python Login System
 
